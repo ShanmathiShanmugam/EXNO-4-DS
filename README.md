@@ -24,8 +24,6 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-      # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
 ## FEATURE SCALING:
 ```
 import pandas as pd
